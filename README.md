@@ -19,8 +19,6 @@ Sinon, à côté, j'aime le surf, la nature et la bonne bouffe.
 
 <h3 align="left">CodeWars:</h3>
 
-Here is my actual level on codewars. 
-
 [![JulesTexMex codewars](https://www.codewars.com/users/JulesTexMex/badges/large)](https://www.codewars.com/users/JulesTexMex)
 
 You can access my profile and check the katas I have done on codewars by clicking on the banner above or just check my solutions in this repository.
