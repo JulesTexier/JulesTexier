@@ -10,15 +10,14 @@ Sinon, à côté, j'aime le surf, la nature et la bonne bouffe.
 - 👯 I’m looking to collaborate on **New Project**
 
 - 📝 I regularly write articles on [https://www.nubiz.fr/blog/](https://www.nubiz.fr/blog/)
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/texierjules/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="texierjules/" height="30" width="40" /></a>
 <a href="https://medium.com/@julestxr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@julestxr" height="30" width="40" /></a>
 </p>
 
-# CodeWars
-
+<h3 align="left">CodeWars:</h3>
 [![Profile badge](https://www.codewars.com/users/JulesTexMex/badges/large)](https://www.codewars.com/users/JulesTexMex)
 
 </p>
