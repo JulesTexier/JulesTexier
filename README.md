@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">A passionate frontend developer from Bordeaux, France</h3>
 
-Salut, moi c'est Jules, j'ai 36 ans. Après 10 ans d'expérience, côté gestion de projet et marketing digital, j'ai décidé de franchir le cap et de me lancer dans le développement d'app web. Passionné par le webdesign et l'UX, je code actuellement en Ruby, Ruby on Rails, HTML5 et CSS.
-Très bonne connaissance également en gestion de projet, CRM, Inbound Marketing, Marketing Automation. 
-Sinon, à côté, j'aime le surf, la nature et la bonne bouffe.
+Hi, I'm Jules, I'm 36 years old. After 10 years in project management and digital marketing, I decided to take the plunge and embark on web app development. Passionate about web design and UX, I currently code in Ruby, Ruby on Rails, HTML5 and CSS. Very good knowledge also in project management, CRM, Inbound Marketing, Marketing Automation. Otherwise, next door, I like surfing, nature and good food.
 
 - 🌱 I’m currently learning **JS - React - Angular**
 
