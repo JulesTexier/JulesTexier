@@ -3,7 +3,7 @@
 
 Hi, I'm Jules, I'm 36 years old. After 10 years in project management and digital marketing, I decided to take the plunge and embark on web app development. Passionate about web design and UX, I currently code in Ruby, Ruby on Rails, HTML5 and CSS. Very good knowledge also in project management, CRM, Inbound Marketing, Marketing Automation. Otherwise, next door, I like surfing, nature and good food.
 
-- 🌱 I’m currently learning **JS - React - Angular**
+- 🌱 I’m currently learning **Javascript - React**
 
 - 👯 I’m looking to collaborate on **New Project**
 
