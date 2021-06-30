@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">A passionate frontend developer from Bordeaux, France</h3>
 
-Hi, I'm Jules, I'm 36 years old. After 10 years in project management and digital marketing, I decided to take the plunge and embark on web app development. Passionate about web design and UX, I currently code in Ruby, Ruby on Rails, HTML5 and CSS. Very good knowledge also in project management, CRM, Inbound Marketing, Marketing Automation. Otherwise, next door, I like surfing, nature and good food.
+Hi, I'm Jules, I'm 36 years old. After 10 years in project management and digital marketing, I decided to take the plunge and embark on web app development. Passionate about web design and UX, I currently code in Ruby, Ruby on Rails for the server side and Java script, React, HTML5 and CSS for the front side. Very good knowledge also in project management, CRM, Inbound Marketing, Marketing Automation. Otherwise, next door, I like surfing, nature and good food.
 
 - 🌱 I’m currently learning **Javascript - React**
 
