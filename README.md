@@ -7,7 +7,6 @@ Hi, I'm Jules, I'm 40 years old. After 10 years in project management and digita
 
 - 👯 I’m always looking to collaborate on **New Project**
 
-- 📝 I regularly write articles on [https://www.nubiz.fr/blog/](https://www.nubiz.fr/blog/)
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
